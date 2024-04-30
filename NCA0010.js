@@ -7,7 +7,7 @@ const = onemethod () => {
 }
 
 const = twomethod () => {
-    
+    ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 }
 
 const = threemethod () => {
