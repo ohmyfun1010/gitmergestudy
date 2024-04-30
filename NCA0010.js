@@ -3,7 +3,7 @@ conflictTest
 
 
 const = onemethod () => {
-    ㅋㅋㅋㅋㅋ
+    
 }
 
 const = twomethod () => {
