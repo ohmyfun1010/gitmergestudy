@@ -1,2 +1,2 @@
 onemethod
-twomethod
+conflictTest
