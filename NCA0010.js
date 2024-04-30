@@ -1,2 +1,2 @@
 onemethod
-twomethodchange
+conflictTest
