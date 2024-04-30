@@ -1,2 +1,3 @@
 onemethod
 thowmethod
+threemethod
